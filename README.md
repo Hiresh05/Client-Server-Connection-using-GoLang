@@ -6,6 +6,10 @@ Note : - TCP always uses port 8081 to listen any connection
 
 I have created a snippet to convert the client message to Lowercase on listening to connection.
 
+To run the file :
+  >> go run server-tcp.go
+  >> go run client-tcp.go
+  
 
 (First time GO Developers - go through this link
 https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
